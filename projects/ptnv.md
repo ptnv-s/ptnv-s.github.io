@@ -35,3 +35,6 @@ Thus by the graph of 2 quantities in the database, we observe our clustering is 
 ## Methodology for Model Training
 
 We utilized the Principal Component analysis to reduce no of the dataset to smaller no and clustering using k-means.
+
+## GITHUB
+Github link-https://github.com/ptnv-s/MRM_RESEARCH_AI_WEEK4
