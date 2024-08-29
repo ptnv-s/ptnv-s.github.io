@@ -17,4 +17,4 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Website Shifted to https://pratinavseth.github.io/
+Website Shifted to [https://pratinavseth.github.io/](https://pratinavseth.github.io/) .
